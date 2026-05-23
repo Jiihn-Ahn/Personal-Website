@@ -1,6 +1,6 @@
 ---
-title: "Your Name"
-subtitle: "PhD Candidate in Biblical Studies"
+title: "Jiihn Ahn"
+subtitle: "PhD Student in New Testament at Princeton Theological Seminary"
 lang: en
 about:
   template: trestles
