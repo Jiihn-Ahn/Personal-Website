@@ -1,0 +1,26 @@
+---
+title: "Your Name"
+subtitle: "PhD Candidate in Biblical Studies"
+lang: en
+about:
+  template: trestles
+  image: profile.jpg
+  image-shape: rounded
+  links:
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: "https://scholar.google.com/"
+    - icon: github
+      text: GitHub
+      href: "https://github.com/yourusername"
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/yourusername"
+    - icon: envelope
+      text: Email
+      href: "mailto:you@example.com"
+---
+
+Write a short, two-or-three-sentence introduction here — who you are, what
+you study, and what visitors will find on this site. Keep it warm and concise;
+the full story goes on the [About](about.qmd) page.

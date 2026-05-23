@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Your Name"
+  site-url: "https://yourname.github.io"
+  description: "Personal website of Your Name, PhD candidate in Biblical Studies."
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: presentations.qmd
+        text: Presentations
+      - href: blog/index.qmd
+        text: Blog
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+    right:
+      # Language toggle (EN -> KO). See README for the full per-language navbar upgrade.
+      - text: "한국어"
+        href: ko/index.qmd
+      - icon: github
+        href: "https://github.com/yourusername"
+        aria-label: GitHub
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/yourusername"
+        aria-label: LinkedIn
+      - icon: envelope
+        href: "mailto:you@example.com"
+        aria-label: Email
+  page-footer:
+    border: true
+    center: "© 2026 Your Name · Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: theme.scss
+    toc: false
+    grid:
+      body-width: 880px
+    link-external-newwindow: true
