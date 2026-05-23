@@ -1,6 +1,6 @@
 ---
-title: "Your Name"
-subtitle: "PhD Candidate in Biblical Studies"
+title: "Jiihn Ahn"
+subtitle: "PhD Student in New Testament at Princeton Theological Seminary"
 lang: en
 about:
   template: trestles
@@ -21,6 +21,4 @@ about:
       href: "mailto:you@example.com"
 ---
 
-Write a short, two-or-three-sentence introduction here — who you are, what
-you study, and what visitors will find on this site. Keep it warm and concise;
-the full story goes on the [About](about.qmd) page.
+Jiihn Ahn is a PhD student in New Testament at Princeton Theological Seminary. His interests include postcolonial biblical criticism, reception history, and  racial-ethnic studies on Pauline Epistles and Acts of the Apostles. Jiihn is also an ordained minister in the Korean Baptist tradition. See more in [About](about.qmd) page.
