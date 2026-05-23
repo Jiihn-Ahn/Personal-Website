@@ -5,10 +5,10 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Your Name</title>
+<title>Jiihn Ahn</title>
 <link>https://yourname.github.io/ko/blog/</link>
 <atom:link href="https://yourname.github.io/ko/blog/index.xml" rel="self" type="application/rss+xml"/>
-<description>Personal website of Your Name, PhD candidate in Biblical Studies.</description>
+<description>Personal website of Jiihn Ahn, PhD Student in New Testament.</description>
 <generator>quarto-1.9.37</generator>
 <lastBuildDate>Fri, 22 May 2026 00:00:00 GMT</lastBuildDate>
 <item>
