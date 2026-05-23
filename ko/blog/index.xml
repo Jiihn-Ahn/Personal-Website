@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>Jiihn Ahn</title>
-<link>https://yourname.github.io/ko/blog/</link>
-<atom:link href="https://yourname.github.io/ko/blog/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://jiihnahn.github.io/ko/blog/</link>
+<atom:link href="https://jiihnahn.github.io/ko/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Personal website of Jiihn Ahn, PhD Student in New Testament.</description>
 <generator>quarto-1.9.37</generator>
 <lastBuildDate>Fri, 22 May 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>사이트를 시작하며</title>
-  <link>https://yourname.github.io/ko/blog/posts/2026-05-22-welcome/</link>
+  <link>https://jiihnahn.github.io/ko/blog/posts/2026-05-22-welcome/</link>
   <description><![CDATA[ 
 
 
@@ -25,7 +25,7 @@
 
  ]]></description>
   <category>소식</category>
-  <guid>https://yourname.github.io/ko/blog/posts/2026-05-22-welcome/</guid>
+  <guid>https://jiihnahn.github.io/ko/blog/posts/2026-05-22-welcome/</guid>
   <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
