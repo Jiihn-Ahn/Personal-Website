@@ -1,0 +1,296 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Write your full bio here. A few paragraphs covering your academic journey, where you study, and what drives your work."
+  },
+  {
+    "objectID": "about.html#biography",
+    "href": "about.html#biography",
+    "title": "About",
+    "section": "",
+    "text": "Write your full bio here. A few paragraphs covering your academic journey, where you study, and what drives your work."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About",
+    "section": "Research interests",
+    "text": "Research interests\n\nFirst area of interest\nSecond area of interest\nThird area of interest"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nPhD in Biblical Studies (in progress) — University, Year–present\nMA / MDiv — University, Year\nBA — University, Year"
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Conference papers, invited talks, and public lectures. Most recent first."
+  },
+  {
+    "objectID": "presentations.html#conference-papers",
+    "href": "presentations.html#conference-papers",
+    "title": "Presentations",
+    "section": "Conference papers",
+    "text": "Conference papers\n\n“Paper title.” Conference / Society, Location, Month Year."
+  },
+  {
+    "objectID": "presentations.html#invited-talks-lectures",
+    "href": "presentations.html#invited-talks-lectures",
+    "title": "Presentations",
+    "section": "Invited talks & lectures",
+    "text": "Invited talks & lectures\n\n“Talk title.” Host institution, Location, Month Year."
+  },
+  {
+    "objectID": "presentations.html#workshops-public-engagement",
+    "href": "presentations.html#workshops-public-engagement",
+    "title": "Presentations",
+    "section": "Workshops & public engagement",
+    "text": "Workshops & public engagement\n\nBrief description of the activity, Venue, Year."
+  },
+  {
+    "objectID": "blog/posts/2026-05-22-welcome/index.html",
+    "href": "blog/posts/2026-05-22-welcome/index.html",
+    "title": "Welcome to my site",
+    "section": "",
+    "text": "This is a placeholder post. Replace it with your first real entry. To add a new post later, copy this folder, rename it (e.g. 2026-06-01-my-topic), and edit the text — or simply ask Claude Code to do it for you."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download CV (PDF)\nReplace files/cv.pdf with your own CV file. You can also summarise the highlights below so visitors can read without downloading."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nPhD in Biblical Studies (in progress), University, Year–present"
+  },
+  {
+    "objectID": "cv.html#selected-publications",
+    "href": "cv.html#selected-publications",
+    "title": "Curriculum Vitae",
+    "section": "Selected publications",
+    "text": "Selected publications\n\nSee the Publications page."
+  },
+  {
+    "objectID": "cv.html#selected-presentations",
+    "href": "cv.html#selected-presentations",
+    "title": "Curriculum Vitae",
+    "section": "Selected presentations",
+    "text": "Selected presentations\n\nSee the Presentations page."
+  },
+  {
+    "objectID": "ko/contact.html",
+    "href": "ko/contact.html",
+    "title": "연락처",
+    "section": "",
+    "text": "English\n학생, 동료, 편집자 누구든 연락을 환영합니다.\n\n이메일: you@example.com\n소속: 학과, 대학명\nGoogle Scholar: 프로필\nGitHub: yourusername"
+  },
+  {
+    "objectID": "ko/blog/index.html",
+    "href": "ko/blog/index.html",
+    "title": "블로그",
+    "section": "",
+    "text": "사이트를 시작하며\n\n\n\n소식\n\n\n\n이 사이트를 만든 이유와 앞으로의 계획에 대한 첫 글.\n\n\n\n\n\n\n\n22.\n\n\n\n\n:::\n:::\n:::\n일치 없음\n:::\n:::"
+  },
+  {
+    "objectID": "ko/index.html",
+    "href": "ko/index.html",
+    "title": "이름",
+    "section": "",
+    "text": "여기에 두세 문장으로 짧은 소개를 적으세요 — 어떤 사람이고, 무엇을 연구하며, 이 사이트에서 무엇을 볼 수 있는지. 자세한 이야기는 소개 페이지에 담습니다.\nEnglish"
+  },
+  {
+    "objectID": "ko/publications.html",
+    "href": "ko/publications.html",
+    "title": "논문 및 저작",
+    "section": "",
+    "text": "English\n기록이 쌓이면 항목을 분명한 제목 아래 정리하세요. 초기에 이 페이지가 짧은 것은 지극히 자연스러운 일이니, 필요 없는 섹션은 지워도 됩니다."
+  },
+  {
+    "objectID": "ko/publications.html#학술-논문",
+    "href": "ko/publications.html#학술-논문",
+    "title": "논문 및 저작",
+    "section": "학술 논문",
+    "text": "학술 논문\n\n저자, 논문 제목. 학술지명, 권(호), 연도."
+  },
+  {
+    "objectID": "ko/publications.html#단행본-챕터",
+    "href": "ko/publications.html#단행본-챕터",
+    "title": "논문 및 저작",
+    "section": "단행본 챕터",
+    "text": "단행본 챕터\n\n저자, “챕터 제목,” 『책 제목』, 편저자 (출판사, 연도)."
+  },
+  {
+    "objectID": "ko/publications.html#서평",
+    "href": "ko/publications.html#서평",
+    "title": "논문 및 저작",
+    "section": "서평",
+    "text": "서평\n\n『책 제목』(저자) 서평. 학술지명, 연도."
+  },
+  {
+    "objectID": "ko/publications.html#게재-예정-진행-중",
+    "href": "ko/publications.html#게재-예정-진행-중",
+    "title": "논문 및 저작",
+    "section": "게재 예정 / 진행 중",
+    "text": "게재 예정 / 진행 중\n\n가제 — 진행 상태에 대한 짧은 메모."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "As your record grows, group entries under clear headings. Delete sections you don’t need yet — it is completely normal for this page to be short early on."
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-articles",
+    "href": "publications.html#peer-reviewed-articles",
+    "title": "Publications",
+    "section": "Peer-reviewed articles",
+    "text": "Peer-reviewed articles\n\nAuthor, Title of the article. Journal Name, Vol(Issue), Year."
+  },
+  {
+    "objectID": "publications.html#book-chapters",
+    "href": "publications.html#book-chapters",
+    "title": "Publications",
+    "section": "Book chapters",
+    "text": "Book chapters\n\nAuthor, “Chapter title,” in Book Title, ed. Editor (Publisher, Year)."
+  },
+  {
+    "objectID": "publications.html#book-reviews",
+    "href": "publications.html#book-reviews",
+    "title": "Publications",
+    "section": "Book reviews",
+    "text": "Book reviews\n\nReview of Book Title by Author. Journal Name, Year."
+  },
+  {
+    "objectID": "publications.html#forthcoming-in-progress",
+    "href": "publications.html#forthcoming-in-progress",
+    "title": "Publications",
+    "section": "Forthcoming / in progress",
+    "text": "Forthcoming / in progress\n\nWorking title — brief note on status."
+  },
+  {
+    "objectID": "ko/cv.html",
+    "href": "ko/cv.html",
+    "title": "이력서 (CV)",
+    "section": "",
+    "text": "English\nCV 내려받기 (PDF)\nfiles/cv.pdf를 본인 CV 파일로 교체하세요. 아래에 핵심만 요약해 두면 방문자가 내려받지 않고도 볼 수 있습니다."
+  },
+  {
+    "objectID": "ko/cv.html#학력",
+    "href": "ko/cv.html#학력",
+    "title": "이력서 (CV)",
+    "section": "학력",
+    "text": "학력\n\n성서학 박사과정 (재학 중), 대학명, 연도–현재"
+  },
+  {
+    "objectID": "ko/cv.html#주요-논문",
+    "href": "ko/cv.html#주요-논문",
+    "title": "이력서 (CV)",
+    "section": "주요 논문",
+    "text": "주요 논문\n\n논문 및 저작 페이지를 참고하세요."
+  },
+  {
+    "objectID": "ko/cv.html#주요-발표",
+    "href": "ko/cv.html#주요-발표",
+    "title": "이력서 (CV)",
+    "section": "주요 발표",
+    "text": "주요 발표\n\n발표 페이지를 참고하세요."
+  },
+  {
+    "objectID": "ko/blog/posts/2026-05-22-welcome/index.html",
+    "href": "ko/blog/posts/2026-05-22-welcome/index.html",
+    "title": "사이트를 시작하며",
+    "section": "",
+    "text": "자리표시용 글입니다. 첫 번째 실제 글로 교체하세요. 나중에 새 글을 추가하려면 이 폴더를 복사해 이름을 바꾸고(예: 2026-06-01-my-topic) 내용을 고치면 됩니다 — 또는 클로드 코드에게 대신 만들어 달라고 요청해도 됩니다."
+  },
+  {
+    "objectID": "ko/presentations.html",
+    "href": "ko/presentations.html",
+    "title": "발표",
+    "section": "",
+    "text": "English\n학회 발표, 초청 강연, 공개 강의. 최신순으로 정리합니다."
+  },
+  {
+    "objectID": "ko/presentations.html#학회-발표",
+    "href": "ko/presentations.html#학회-발표",
+    "title": "발표",
+    "section": "학회 발표",
+    "text": "학회 발표\n\n“발표 제목.” 학회 / 학술단체, 장소, 연월."
+  },
+  {
+    "objectID": "ko/presentations.html#초청-강연-및-강의",
+    "href": "ko/presentations.html#초청-강연-및-강의",
+    "title": "발표",
+    "section": "초청 강연 및 강의",
+    "text": "초청 강연 및 강의\n\n“강연 제목.” 초청 기관, 장소, 연월."
+  },
+  {
+    "objectID": "ko/presentations.html#워크숍-및-대중-활동",
+    "href": "ko/presentations.html#워크숍-및-대중-활동",
+    "title": "발표",
+    "section": "워크숍 및 대중 활동",
+    "text": "워크숍 및 대중 활동\n\n활동에 대한 짧은 설명, 장소, 연도."
+  },
+  {
+    "objectID": "ko/about.html",
+    "href": "ko/about.html",
+    "title": "소개",
+    "section": "",
+    "text": "English"
+  },
+  {
+    "objectID": "ko/about.html#약력",
+    "href": "ko/about.html#약력",
+    "title": "소개",
+    "section": "약력",
+    "text": "약력\n전체 약력을 여기에 적으세요. 학문적 여정, 소속, 연구의 동기를 몇 문단으로 소개합니다."
+  },
+  {
+    "objectID": "ko/about.html#연구-관심사",
+    "href": "ko/about.html#연구-관심사",
+    "title": "소개",
+    "section": "연구 관심사",
+    "text": "연구 관심사\n\n첫 번째 관심 분야\n두 번째 관심 분야\n세 번째 관심 분야"
+  },
+  {
+    "objectID": "ko/about.html#학력",
+    "href": "ko/about.html#학력",
+    "title": "소개",
+    "section": "학력",
+    "text": "학력\n\n성서학 박사과정 (재학 중) — 대학명, 연도–현재\n석사 / 신학석사 — 대학명, 연도\n학사 — 대학명, 연도"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Your Name",
+    "section": "",
+    "text": "Write a short, two-or-three-sentence introduction here — who you are, what you study, and what visitors will find on this site. Keep it warm and concise; the full story goes on the About page."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to my site\n\n\n\nnews\n\n\n\nA first note on why this site exists and what to expect.\n\n\n\n\n\nMay 22, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m always glad to hear from students, colleagues, and editors.\n\nEmail: you@example.com\nAffiliation: Department, University\nGoogle Scholar: profile\nGitHub: yourusername"
+  }
+]

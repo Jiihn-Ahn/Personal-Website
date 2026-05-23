@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Your Name</title>
+<link>https://yourname.github.io/blog/</link>
+<atom:link href="https://yourname.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Personal website of Your Name, PhD candidate in Biblical Studies.</description>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Fri, 22 May 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome to my site</title>
+  <link>https://yourname.github.io/blog/posts/2026-05-22-welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is a placeholder post. Replace it with your first real entry. To add a new post later, copy this folder, rename it (e.g.&nbsp;<code>2026-06-01-my-topic</code>), and edit the text — or simply ask Claude Code to do it for you.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://yourname.github.io/blog/posts/2026-05-22-welcome/</guid>
+  <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
