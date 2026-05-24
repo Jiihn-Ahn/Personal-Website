@@ -5,8 +5,6 @@ lang: en
 
 [Download CV (PDF)](https://github.com/Jiihn-Ahn/Personal-Website/blob/main/files/CV%2C%20Jiihn%20Ahn.pdf){.btn .btn-outline-dark}
 
-*Replace `files/cv.pdf` with your own CV file. You can also summarise the
-highlights below so visitors can read without downloading.*
 
 ## Education
 
@@ -15,10 +13,27 @@ highlights below so visitors can read without downloading.*
 - MDiv, Korea Baptist Theological University Seminary, 2021
 - BA, New Orleans Baptist Theological Seminary, 2015
 
-## Selected publications
+## Teaching Experience
 
-- See the [Publications](publications.qmd) page.
+### Princeton Theological Seminary, Princeton NJ
+- **Summer 2026** TA, NT1152, Introduction to New Testament Greek w/ Dr. Luan Ribeiro. 
+  - Precept Instructions including Greek Grammatical Review Sessions
+- **Spring 2026** TA, NT2012 Orientation to New Testament and Exegesis w/ Dr. Matthew Novenson & Dr. Eric Barreto. 
+  - Weekly Precept Instruction for Two Precept Units
+- **Fall 2025** TA, TI2014 Jews & Judaism in the New Testament w/ Dr. Matthew Novenson. 
+  - Guest Lecturing for Two Class Sessions
 
-## Selected presentations
+### Korea Baptist Theological University Seminary, South Korea                                                                        
+- **Spring 2021** TA, Intro to Christian Education
 
-- See the [Presentations](presentations.qmd) page.
+## Academic Experience
+- **Summer 2026** Research Assistant, Princeton Theological Seminary, Princeton NJ.
+  - Assistant to Dr. Mary Farag
+  - Assisting with Bibliographical and Library Circulation and Copy Editing 
+- **Fall 2023 - Spring 2025** Admissions Fellow, Office of Admissions at Vanderbilt Divinity School, Nashville TN.
+  - Represented school to prospective students; 
+  - led recruitment and diversity initiatives towards international students 
+- **Summer 2024** Research Assistant, Vanderbilt Divinity School, Nashville TN.
+  - Assistant to Dr. David A. Michelson
+  - Contributed to Syriac manuscript digitization and TEI encoding for the British Library.
+  - Bibliographical research into Latin, Greek, and other multi-language medieval, early modern sources.
