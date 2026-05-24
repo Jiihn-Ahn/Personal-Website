@@ -12,13 +12,13 @@ about:
       href: "https://scholar.google.com/"
     - icon: github
       text: GitHub
-      href: "https://github.com/yourusername"
+      href: "https://github.com/Jiihn-Ahn"
     - icon: linkedin
       text: LinkedIn
-      href: "https://www.linkedin.com/in/yourusername"
+      href: "https://www.linkedin.com/in/jiihn-ahn-a21371272/"
     - icon: envelope
       text: Email
-      href: "mailto:you@example.com"
+      href: "mailto:jiihn.ahn@ptsem.edu"
 ---
 
 Jiihn Ahn is a PhD student in New Testament at Princeton Theological Seminary. His interests include postcolonial biblical criticism, reception history, and  racial-ethnic studies on Pauline Epistles and Acts of the Apostles. Jiihn is also an ordained minister in the Korean Baptist tradition. See more in [About](about.qmd) page.
