@@ -8,10 +8,10 @@ lang: en
 
 ## Education
 
-- PhD in New Testament (in progress), Princeton Theological Seminary, 2025–present
-- MTS, Vanderbilt University Divinity School, 2025
-- MDiv, Korea Baptist Theological University Seminary, 2021
-- BA, New Orleans Baptist Theological Seminary, 2015
+- **PhD in New Testament** (in progress), Princeton Theological Seminary, 2025–present
+- **MTS**, Vanderbilt University Divinity School, 2025
+- **MDiv**, Korea Baptist Theological University Seminary, 2021
+- **BA**, New Orleans Baptist Theological Seminary, 2015
 
 ## Teaching Experience
 
