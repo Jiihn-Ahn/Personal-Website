@@ -31,17 +31,17 @@ website:
       - text: "한국어"
         href: ko/index.qmd
       - icon: github
-        href: "https://github.com/yourusername"
+        href: "https://github.com/Jiihn-Ahn"
         aria-label: GitHub
       - icon: linkedin
-        href: "https://www.linkedin.com/in/yourusername"
+        href: "https://www.linkedin.com/in/jiihn-ahn-a21371272/"
         aria-label: LinkedIn
       - icon: envelope
-        href: "mailto:you@example.com"
+        href: "mailto:jiihn.ahn@ptsem.edu"
         aria-label: Email
   page-footer:
     border: true
-    center: "© 2026 Jiihn Ahn · Built with [Quarto](https://quarto.org)"
+    center: "© 2026 Jiihn Ahn · Built with [Quarto](https://quarto.org) · Inspired by [Cecilia Baldoni](https://cecibaldoni.github.io)"
 
 format:
   html:

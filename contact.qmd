@@ -3,9 +3,9 @@ title: "Contact"
 lang: en
 ---
 
-I'm always glad to hear from students, colleagues, and editors.
 
-- **Email:** [you@example.com](mailto:you@example.com)
-- **Affiliation:** Department, University
-- **Google Scholar:** [profile](https://scholar.google.com/)
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Email:** [jiihn.ahn@ptsem.edu](mailto:jiihn.ahn@ptsem.edu)
+- **Affiliation:** Biblical Studies Department, Princeton Theological Seminary
+- **Google Scholar:** Coming Soon
+- **Korean Blog:** [Link](https://biblicalstudies.tistory.com)
+- **GitHub:** [Jiihn-Ahn](https://github.com/Jiihn-Ahn)
