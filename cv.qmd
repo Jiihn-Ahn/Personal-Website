@@ -27,13 +27,17 @@ lang: en
 - **Spring 2021** TA, Intro to Christian Education
 
 ## Academic Experience
-- **Summer 2026** Research Assistant, Princeton Theological Seminary, Princeton NJ.
+
+### Princeton Theological Seminary 
+- **Summer 2026** Research Assistant
   - Assistant to Dr. Mary Farag
   - Assisting with Bibliographical and Library Circulation and Copy Editing 
-- **Fall 2023 - Spring 2025** Admissions Fellow, Office of Admissions at Vanderbilt Divinity School, Nashville TN.
+
+### Vanderbilt University Divinity School 
+- **Fall 2023 - Spring 2025** Admissions Fellow, Office of Admissions
   - Represented school to prospective students; 
   - led recruitment and diversity initiatives towards international students 
-- **Summer 2024** Research Assistant, Vanderbilt Divinity School, Nashville TN.
+- **Summer 2024** Research Assistant
   - Assistant to Dr. David A. Michelson
   - Contributed to Syriac manuscript digitization and TEI encoding for the British Library.
   - Bibliographical research into Latin, Greek, and other multi-language medieval, early modern sources.
