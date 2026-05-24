@@ -5,10 +5,10 @@ lang: en
 
 ## Conference papers
 
-6. “On Egyptian Circumcision by Christians, Jews and Pagans.” _2026 SBL Annual Meeting_: Denver CO, Nov 2026.  
-5. “Calling on the Name of the Lord in Romans and Acts.” _2026 Romans and Christian Theology Conference_: Princeton NJ, Oct 2026
-4. “Can the Subaltern Speak of Within Judaism?: Assessing the Place of Korean Biblical Scholars in Jewish-Christian Relations of Biblical Studies.” 2026 AAR-NE Regional Conference: Princeton NJ, May 2026
-3. “AI Agents as RA and TA: Use of AI Agent IDE for Humanities Research and Teaching.” 2026 Koinonia Forum, Tech Faithfully: Princeton NJ, Mar 2026
-2. “Origins of (Korean Christianity) in its Imperial Context.” 2025 SBL Annual Meeting: Boston MA, Nov 2025
-1. “Universality or Fluidity? Ethnic Reasoning within Colossians 1-2.” 2024 SBL Global Virtual Meeting, Apr 2024
+- “On Egyptian Circumcision by Christians, Jews and Pagans.” _2026 SBL Annual Meeting_: Denver CO, Nov 2026.  
+- “Calling on the Name of the Lord in Romans and Acts.” _2026 Romans and Christian Theology Conference_: Princeton NJ, Oct 2026
+- “Can the Subaltern Speak of Within Judaism?: Assessing the Place of Korean Biblical Scholars in Jewish-Christian Relations of Biblical Studies.” 2026 AAR-NE Regional Conference: Princeton NJ, May 2026
+- “AI Agents as RA and TA: Use of AI Agent IDE for Humanities Research and Teaching.” 2026 Koinonia Forum, Tech Faithfully: Princeton NJ, Mar 2026
+- “Origins of (Korean Christianity) in its Imperial Context.” 2025 SBL Annual Meeting: Boston MA, Nov 2025
+- “Universality or Fluidity? Ethnic Reasoning within Colossians 1-2.” 2024 SBL Global Virtual Meeting, Apr 2024
 
