@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 lang: en
 ---
 
-[Download CV (PDF)](files/cv.pdf){.btn .btn-outline-dark}
+[Download CV (PDF)](https://github.com/Jiihn-Ahn/Personal-Website/blob/main/files/CV%2C%20Jiihn%20Ahn.pdf){.btn .btn-outline-dark}
 
 *Replace `files/cv.pdf` with your own CV file. You can also summarise the
 highlights below so visitors can read without downloading.*
