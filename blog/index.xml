@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>Jiihn Ahn</title>
-<link>https://jiihnahn.github.io/blog/</link>
-<atom:link href="https://jiihnahn.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://jiihn.org/blog/</link>
+<atom:link href="https://jiihn.org/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Personal website of Jiihn Ahn, PhD Student in New Testament.</description>
-<generator>quarto-1.9.37</generator>
+<generator>quarto-1.10.18</generator>
 <lastBuildDate>Fri, 22 May 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Welcome to my site</title>
-  <link>https://jiihnahn.github.io/blog/posts/2026-05-22-welcome/</link>
+  <link>https://jiihn.org/blog/posts/2026-05-22-welcome/</link>
   <description><![CDATA[ 
 
 
@@ -25,7 +25,7 @@
 
  ]]></description>
   <category>news</category>
-  <guid>https://jiihnahn.github.io/blog/posts/2026-05-22-welcome/</guid>
+  <guid>https://jiihn.org/blog/posts/2026-05-22-welcome/</guid>
   <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>

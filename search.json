@@ -1,45 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "Jiihn Ahn is a PhD student in New Testament. As a Korean international student, Jiihn also spent significant time in New Orleans, LA, where he calls it second home. Diverse social dynamics in New Orleans caused him to ask questions about social class and ethnicity, and how personal background affects people’s belief about the Bible. He holds degrees from New Orleans Baptist Theological Seminary(BA), Korean Baptist Theological Univ. Seminary(MDiv) and Vanderbilt University(MTS). His interests include postcolonial biblical criticism, reception history, and racial-ethnic studies focusing on Pauline Epistles and Acts of the Apostles. Jiihn is also an ordained minister in the Korean Baptist tradition."
+    "text": "As a 1st year PhD student, I do not have publication in hand. Please join my long journey of adding to this list."
   },
   {
-    "objectID": "about.html#biography",
-    "href": "about.html#biography",
-    "title": "About",
-    "section": "",
-    "text": "Jiihn Ahn is a PhD student in New Testament. As a Korean international student, Jiihn also spent significant time in New Orleans, LA, where he calls it second home. Diverse social dynamics in New Orleans caused him to ask questions about social class and ethnicity, and how personal background affects people’s belief about the Bible. He holds degrees from New Orleans Baptist Theological Seminary(BA), Korean Baptist Theological Univ. Seminary(MDiv) and Vanderbilt University(MTS). His interests include postcolonial biblical criticism, reception history, and racial-ethnic studies focusing on Pauline Epistles and Acts of the Apostles. Jiihn is also an ordained minister in the Korean Baptist tradition."
-  },
-  {
-    "objectID": "about.html#research-interests",
-    "href": "about.html#research-interests",
-    "title": "About",
-    "section": "Research interests",
-    "text": "Research interests\n\nPostcolonial Biblical Criticism and Racial-ethnic Studies\nReception History\nPauline Epistles and Acts of the Apostles"
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
-    "section": "Education",
-    "text": "Education\n\nPhD in New Testament (in progress) — Princeton Theological Seminary, 2025–present\nMTS — Vanderbilt University Divinity School, 2025\nMDiv — Korea Baptist Theological University Seminary, 2021\nBA — New Orleans Baptist Theological Seminary, 2015"
-  },
-  {
-    "objectID": "presentations.html",
-    "href": "presentations.html",
-    "title": "Presentations",
-    "section": "",
-    "text": "“On Egyptian Circumcision by Christians, Jews and Pagans.” 2026 SBL Annual Meeting: Denver CO, Nov 2026.\n\n“Calling on the Name of the Lord in Romans and Acts.” 2026 Romans and Christian Theology Conference: Princeton NJ, Oct 2026\n“Can the Subaltern Speak of Within Judaism?: Assessing the Place of Korean Biblical Scholars in Jewish-Christian Relations of Biblical Studies.” 2026 AAR-NE Regional Conference: Princeton NJ, May 2026\n“AI Agents as RA and TA: Use of AI Agent IDE for Humanities Research and Teaching.” 2026 Koinonia Forum, Tech Faithfully: Princeton NJ, Mar 2026\n“Origins of (Korean Christianity) in its Imperial Context.” 2025 SBL Annual Meeting: Boston MA, Nov 2025\n“Universality or Fluidity? Ethnic Reasoning within Colossians 1-2.” 2024 SBL Global Virtual Meeting, Apr 2024"
-  },
-  {
-    "objectID": "presentations.html#conference-papers",
-    "href": "presentations.html#conference-papers",
-    "title": "Presentations",
-    "section": "",
-    "text": "“On Egyptian Circumcision by Christians, Jews and Pagans.” 2026 SBL Annual Meeting: Denver CO, Nov 2026.\n\n“Calling on the Name of the Lord in Romans and Acts.” 2026 Romans and Christian Theology Conference: Princeton NJ, Oct 2026\n“Can the Subaltern Speak of Within Judaism?: Assessing the Place of Korean Biblical Scholars in Jewish-Christian Relations of Biblical Studies.” 2026 AAR-NE Regional Conference: Princeton NJ, May 2026\n“AI Agents as RA and TA: Use of AI Agent IDE for Humanities Research and Teaching.” 2026 Koinonia Forum, Tech Faithfully: Princeton NJ, Mar 2026\n“Origins of (Korean Christianity) in its Imperial Context.” 2025 SBL Annual Meeting: Boston MA, Nov 2025\n“Universality or Fluidity? Ethnic Reasoning within Colossians 1-2.” 2024 SBL Global Virtual Meeting, Apr 2024"
+    "objectID": "publications.html#forthcoming-in-progress",
+    "href": "publications.html#forthcoming-in-progress",
+    "title": "Publications",
+    "section": "Forthcoming / in progress",
+    "text": "Forthcoming / in progress\n\nOrigins of (Korean) Christianity: Missions, Acts of the Apostles, and Imperial Dynamics — Under Review."
   },
   {
     "objectID": "blog/posts/2026-05-22-welcome/index.html",
@@ -47,6 +19,83 @@
     "title": "Welcome to my site",
     "section": "",
     "text": "This is a placeholder post. Replace it with your first real entry. To add a new post later, copy this folder, rename it (e.g. 2026-06-01-my-topic), and edit the text — or simply ask Claude Code to do it for you."
+  },
+  {
+    "objectID": "ko/blog/index.html",
+    "href": "ko/blog/index.html",
+    "title": "블로그",
+    "section": "",
+    "text": "사이트를 시작하며\n\n\n\n소식\n\n\n\n이 사이트를 만든 이유와 앞으로의 계획에 대한 첫 글.\n\n\n\n\n\n\n\n22.\n\n\n\n\n:::\n:::\n:::\n일치 없음\n:::\n:::"
+  },
+  {
+    "objectID": "ko/index.html",
+    "href": "ko/index.html",
+    "title": "이름",
+    "section": "",
+    "text": "여기에 두세 문장으로 짧은 소개를 적으세요 — 어떤 사람이고, 무엇을 연구하며, 이 사이트에서 무엇을 볼 수 있는지. 자세한 이야기는 소개 페이지에 담습니다.\nEnglish"
+  },
+  {
+    "objectID": "ko/about.html",
+    "href": "ko/about.html",
+    "title": "소개",
+    "section": "",
+    "text": "English"
+  },
+  {
+    "objectID": "ko/about.html#약력",
+    "href": "ko/about.html#약력",
+    "title": "소개",
+    "section": "약력",
+    "text": "약력\n전체 약력을 여기에 적으세요. 학문적 여정, 소속, 연구의 동기를 몇 문단으로 소개합니다."
+  },
+  {
+    "objectID": "ko/about.html#연구-관심사",
+    "href": "ko/about.html#연구-관심사",
+    "title": "소개",
+    "section": "연구 관심사",
+    "text": "연구 관심사\n\n첫 번째 관심 분야\n두 번째 관심 분야\n세 번째 관심 분야"
+  },
+  {
+    "objectID": "ko/about.html#학력",
+    "href": "ko/about.html#학력",
+    "title": "소개",
+    "section": "학력",
+    "text": "학력\n\n성서학 박사과정 (재학 중) — 대학명, 연도–현재\n석사 / 신학석사 — 대학명, 연도\n학사 — 대학명, 연도"
+  },
+  {
+    "objectID": "ko/presentations.html",
+    "href": "ko/presentations.html",
+    "title": "발표",
+    "section": "",
+    "text": "English\n학회 발표, 초청 강연, 공개 강의. 최신순으로 정리합니다."
+  },
+  {
+    "objectID": "ko/presentations.html#학회-발표",
+    "href": "ko/presentations.html#학회-발표",
+    "title": "발표",
+    "section": "학회 발표",
+    "text": "학회 발표\n\n“발표 제목.” 학회 / 학술단체, 장소, 연월."
+  },
+  {
+    "objectID": "ko/presentations.html#초청-강연-및-강의",
+    "href": "ko/presentations.html#초청-강연-및-강의",
+    "title": "발표",
+    "section": "초청 강연 및 강의",
+    "text": "초청 강연 및 강의\n\n“강연 제목.” 초청 기관, 장소, 연월."
+  },
+  {
+    "objectID": "ko/presentations.html#워크숍-및-대중-활동",
+    "href": "ko/presentations.html#워크숍-및-대중-활동",
+    "title": "발표",
+    "section": "워크숍 및 대중 활동",
+    "text": "워크숍 및 대중 활동\n\n활동에 대한 짧은 설명, 장소, 연도."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: jiihn.ahn@ptsem.edu\nAffiliation: Biblical Studies Department, Princeton Theological Seminary\nGoogle Scholar: Coming Soon\nKorean Blog: Link\nGitHub: Jiihn-Ahn"
   },
   {
     "objectID": "cv.html",
@@ -77,6 +126,83 @@
     "text": "Academic Experience\n\nPrinceton Theological Seminary, Princeton NJ\n\nSummer 2026 Research Assistant\n\nAssistant to Dr. Mary Farag\nAssisting with Bibliographical and Library Circulation and Copy Editing\n\n\n\n\nVanderbilt University Divinity School, Nashville TN\n\nFall 2023 - Spring 2025 Admissions Fellow, Office of Admissions\n\nRepresented school to prospective students;\nled recruitment and diversity initiatives towards international students\n\nSummer 2024 Research Assistant\n\nAssistant to Dr. David A. Michelson\nContributed to Syriac manuscript digitization and TEI encoding for the British Library.\nBibliographical research into Latin, Greek, and other multi-language medieval, early modern sources."
   },
   {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "“On Egyptian Circumcision by Christians, Jews and Pagans.” 2026 SBL Annual Meeting: Denver CO, Nov 2026.\n\n“Calling on the Name of the Lord in Romans and Acts.” 2026 Romans and Christian Theology Conference: Princeton NJ, Oct 2026\n“Can the Subaltern Speak of Within Judaism?: Assessing the Place of Korean Biblical Scholars in Jewish-Christian Relations of Biblical Studies.” 2026 AAR-NE Regional Conference: Princeton NJ, May 2026\n“AI Agents as RA and TA: Use of AI Agent IDE for Humanities Research and Teaching.” 2026 Koinonia Forum, Tech Faithfully: Princeton NJ, Mar 2026\n“Origins of (Korean Christianity) in its Imperial Context.” 2025 SBL Annual Meeting: Boston MA, Nov 2025\n“Universality or Fluidity? Ethnic Reasoning within Colossians 1-2.” 2024 SBL Global Virtual Meeting, Apr 2024"
+  },
+  {
+    "objectID": "presentations.html#conference-papers",
+    "href": "presentations.html#conference-papers",
+    "title": "Presentations",
+    "section": "",
+    "text": "“On Egyptian Circumcision by Christians, Jews and Pagans.” 2026 SBL Annual Meeting: Denver CO, Nov 2026.\n\n“Calling on the Name of the Lord in Romans and Acts.” 2026 Romans and Christian Theology Conference: Princeton NJ, Oct 2026\n“Can the Subaltern Speak of Within Judaism?: Assessing the Place of Korean Biblical Scholars in Jewish-Christian Relations of Biblical Studies.” 2026 AAR-NE Regional Conference: Princeton NJ, May 2026\n“AI Agents as RA and TA: Use of AI Agent IDE for Humanities Research and Teaching.” 2026 Koinonia Forum, Tech Faithfully: Princeton NJ, Mar 2026\n“Origins of (Korean Christianity) in its Imperial Context.” 2025 SBL Annual Meeting: Boston MA, Nov 2025\n“Universality or Fluidity? Ethnic Reasoning within Colossians 1-2.” 2024 SBL Global Virtual Meeting, Apr 2024"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Jiihn Ahn is a PhD student in New Testament. As a Korean international student, Jiihn also spent significant time in New Orleans, LA, where he calls it second home. Diverse social dynamics in New Orleans caused him to ask questions about social class and ethnicity, and how personal background affects people’s belief about the Bible. He holds degrees from New Orleans Baptist Theological Seminary(BA), Korean Baptist Theological Univ. Seminary(MDiv) and Vanderbilt University(MTS). His interests include postcolonial biblical criticism, reception history, and racial-ethnic studies focusing on Pauline Epistles and Acts of the Apostles. Jiihn is also an ordained minister in the Korean Baptist tradition."
+  },
+  {
+    "objectID": "about.html#biography",
+    "href": "about.html#biography",
+    "title": "About",
+    "section": "",
+    "text": "Jiihn Ahn is a PhD student in New Testament. As a Korean international student, Jiihn also spent significant time in New Orleans, LA, where he calls it second home. Diverse social dynamics in New Orleans caused him to ask questions about social class and ethnicity, and how personal background affects people’s belief about the Bible. He holds degrees from New Orleans Baptist Theological Seminary(BA), Korean Baptist Theological Univ. Seminary(MDiv) and Vanderbilt University(MTS). His interests include postcolonial biblical criticism, reception history, and racial-ethnic studies focusing on Pauline Epistles and Acts of the Apostles. Jiihn is also an ordained minister in the Korean Baptist tradition."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About",
+    "section": "Research interests",
+    "text": "Research interests\n\nPostcolonial Biblical Criticism and Racial-ethnic Studies\nReception History\nPauline Epistles and Acts of the Apostles"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nPhD in New Testament (in progress) — Princeton Theological Seminary, 2025–present\nMTS — Vanderbilt University Divinity School, 2025\nMDiv — Korea Baptist Theological University Seminary, 2021\nBA — New Orleans Baptist Theological Seminary, 2015"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jiihn Ahn",
+    "section": "",
+    "text": "Jiihn Ahn is a PhD student in New Testament at Princeton Theological Seminary. His interests include postcolonial biblical criticism, reception history, and racial-ethnic studies on Pauline Epistles and Acts of the Apostles. Jiihn is also an ordained minister in the Korean Baptist tradition. See more in About page."
+  },
+  {
+    "objectID": "ko/cv.html",
+    "href": "ko/cv.html",
+    "title": "이력서 (CV)",
+    "section": "",
+    "text": "English\nCV 내려받기 (PDF)\nfiles/cv.pdf를 본인 CV 파일로 교체하세요. 아래에 핵심만 요약해 두면 방문자가 내려받지 않고도 볼 수 있습니다."
+  },
+  {
+    "objectID": "ko/cv.html#학력",
+    "href": "ko/cv.html#학력",
+    "title": "이력서 (CV)",
+    "section": "학력",
+    "text": "학력\n\n성서학 박사과정 (재학 중), 대학명, 연도–현재"
+  },
+  {
+    "objectID": "ko/cv.html#주요-논문",
+    "href": "ko/cv.html#주요-논문",
+    "title": "이력서 (CV)",
+    "section": "주요 논문",
+    "text": "주요 논문\n\n논문 및 저작 페이지를 참고하세요."
+  },
+  {
+    "objectID": "ko/cv.html#주요-발표",
+    "href": "ko/cv.html#주요-발표",
+    "title": "이력서 (CV)",
+    "section": "주요 발표",
+    "text": "주요 발표\n\n발표 페이지를 참고하세요."
+  },
+  {
     "objectID": "ko/contact.html",
     "href": "ko/contact.html",
     "title": "연락처",
@@ -84,18 +210,11 @@
     "text": "English\n학생, 동료, 편집자 누구든 연락을 환영합니다.\n\n이메일: you@example.com\n소속: 학과, 대학명\nGoogle Scholar: 프로필\nGitHub: yourusername"
   },
   {
-    "objectID": "ko/blog/index.html",
-    "href": "ko/blog/index.html",
-    "title": "블로그",
+    "objectID": "ko/blog/posts/2026-05-22-welcome/index.html",
+    "href": "ko/blog/posts/2026-05-22-welcome/index.html",
+    "title": "사이트를 시작하며",
     "section": "",
-    "text": "사이트를 시작하며\n\n\n\n소식\n\n\n\n이 사이트를 만든 이유와 앞으로의 계획에 대한 첫 글.\n\n\n\n\n\n\n\n22.\n\n\n\n\n:::\n:::\n:::\n일치 없음\n:::\n:::"
-  },
-  {
-    "objectID": "ko/index.html",
-    "href": "ko/index.html",
-    "title": "이름",
-    "section": "",
-    "text": "여기에 두세 문장으로 짧은 소개를 적으세요 — 어떤 사람이고, 무엇을 연구하며, 이 사이트에서 무엇을 볼 수 있는지. 자세한 이야기는 소개 페이지에 담습니다.\nEnglish"
+    "text": "자리표시용 글입니다. 첫 번째 실제 글로 교체하세요. 나중에 새 글을 추가하려면 이 폴더를 복사해 이름을 바꾸고(예: 2026-06-01-my-topic) 내용을 고치면 됩니다 — 또는 클로드 코드에게 대신 만들어 달라고 요청해도 됩니다."
   },
   {
     "objectID": "ko/publications.html",
@@ -133,129 +252,10 @@
     "text": "게재 예정 / 진행 중\n\n가제 — 진행 상태에 대한 짧은 메모."
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "As a 1st year PhD student, I do not have publication in hand. Please join my long journey of adding to this list."
-  },
-  {
-    "objectID": "publications.html#forthcoming-in-progress",
-    "href": "publications.html#forthcoming-in-progress",
-    "title": "Publications",
-    "section": "Forthcoming / in progress",
-    "text": "Forthcoming / in progress\n\nOrigins of (Korean) Christianity: Missions, Acts of the Apostles, and Imperial Dynamics — Under Review."
-  },
-  {
-    "objectID": "ko/cv.html",
-    "href": "ko/cv.html",
-    "title": "이력서 (CV)",
-    "section": "",
-    "text": "English\nCV 내려받기 (PDF)\nfiles/cv.pdf를 본인 CV 파일로 교체하세요. 아래에 핵심만 요약해 두면 방문자가 내려받지 않고도 볼 수 있습니다."
-  },
-  {
-    "objectID": "ko/cv.html#학력",
-    "href": "ko/cv.html#학력",
-    "title": "이력서 (CV)",
-    "section": "학력",
-    "text": "학력\n\n성서학 박사과정 (재학 중), 대학명, 연도–현재"
-  },
-  {
-    "objectID": "ko/cv.html#주요-논문",
-    "href": "ko/cv.html#주요-논문",
-    "title": "이력서 (CV)",
-    "section": "주요 논문",
-    "text": "주요 논문\n\n논문 및 저작 페이지를 참고하세요."
-  },
-  {
-    "objectID": "ko/cv.html#주요-발표",
-    "href": "ko/cv.html#주요-발표",
-    "title": "이력서 (CV)",
-    "section": "주요 발표",
-    "text": "주요 발표\n\n발표 페이지를 참고하세요."
-  },
-  {
-    "objectID": "ko/blog/posts/2026-05-22-welcome/index.html",
-    "href": "ko/blog/posts/2026-05-22-welcome/index.html",
-    "title": "사이트를 시작하며",
-    "section": "",
-    "text": "자리표시용 글입니다. 첫 번째 실제 글로 교체하세요. 나중에 새 글을 추가하려면 이 폴더를 복사해 이름을 바꾸고(예: 2026-06-01-my-topic) 내용을 고치면 됩니다 — 또는 클로드 코드에게 대신 만들어 달라고 요청해도 됩니다."
-  },
-  {
-    "objectID": "ko/presentations.html",
-    "href": "ko/presentations.html",
-    "title": "발표",
-    "section": "",
-    "text": "English\n학회 발표, 초청 강연, 공개 강의. 최신순으로 정리합니다."
-  },
-  {
-    "objectID": "ko/presentations.html#학회-발표",
-    "href": "ko/presentations.html#학회-발표",
-    "title": "발표",
-    "section": "학회 발표",
-    "text": "학회 발표\n\n“발표 제목.” 학회 / 학술단체, 장소, 연월."
-  },
-  {
-    "objectID": "ko/presentations.html#초청-강연-및-강의",
-    "href": "ko/presentations.html#초청-강연-및-강의",
-    "title": "발표",
-    "section": "초청 강연 및 강의",
-    "text": "초청 강연 및 강의\n\n“강연 제목.” 초청 기관, 장소, 연월."
-  },
-  {
-    "objectID": "ko/presentations.html#워크숍-및-대중-활동",
-    "href": "ko/presentations.html#워크숍-및-대중-활동",
-    "title": "발표",
-    "section": "워크숍 및 대중 활동",
-    "text": "워크숍 및 대중 활동\n\n활동에 대한 짧은 설명, 장소, 연도."
-  },
-  {
-    "objectID": "ko/about.html",
-    "href": "ko/about.html",
-    "title": "소개",
-    "section": "",
-    "text": "English"
-  },
-  {
-    "objectID": "ko/about.html#약력",
-    "href": "ko/about.html#약력",
-    "title": "소개",
-    "section": "약력",
-    "text": "약력\n전체 약력을 여기에 적으세요. 학문적 여정, 소속, 연구의 동기를 몇 문단으로 소개합니다."
-  },
-  {
-    "objectID": "ko/about.html#연구-관심사",
-    "href": "ko/about.html#연구-관심사",
-    "title": "소개",
-    "section": "연구 관심사",
-    "text": "연구 관심사\n\n첫 번째 관심 분야\n두 번째 관심 분야\n세 번째 관심 분야"
-  },
-  {
-    "objectID": "ko/about.html#학력",
-    "href": "ko/about.html#학력",
-    "title": "소개",
-    "section": "학력",
-    "text": "학력\n\n성서학 박사과정 (재학 중) — 대학명, 연도–현재\n석사 / 신학석사 — 대학명, 연도\n학사 — 대학명, 연도"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jiihn Ahn",
-    "section": "",
-    "text": "Jiihn Ahn is a PhD student in New Testament at Princeton Theological Seminary. His interests include postcolonial biblical criticism, reception history, and racial-ethnic studies on Pauline Epistles and Acts of the Apostles. Jiihn is also an ordained minister in the Korean Baptist tradition. See more in About page."
-  },
-  {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
     "text": "Welcome to my site\n\n\n\nnews\n\n\n\nA first note on why this site exists and what to expect.\n\n\n\n\n\nMay 22, 2026\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Email: jiihn.ahn@ptsem.edu\nAffiliation: Biblical Studies Department, Princeton Theological Seminary\nGoogle Scholar: Coming Soon\nKorean Blog: Link\nGitHub: Jiihn-Ahn"
   }
 ]

@@ -1,1 +1,1 @@
-Sitemap: https://jiihnahn.github.io/sitemap.xml
+Sitemap: https://jiihn.org/sitemap.xml
