@@ -1,5 +1,5 @@
 ---
-title: "안지인
+title: "안지인"
 subtitle: "미국 프린스턴 신학교 성서학 박사과정생이자 목사"
 lang: ko
 about:
