@@ -9,3 +9,4 @@ lang: en
 - **Google Scholar:** Coming Soon
 - **Korean Blog:** [Link](https://biblicalstudies.tistory.com)
 - **GitHub:** [Jiihn-Ahn](https://github.com/Jiihn-Ahn)
+- **Threads** [jiihn.bible](https://www.threads.com/@jiihn.bible)

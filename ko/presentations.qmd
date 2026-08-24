@@ -3,16 +3,12 @@ title: "발표"
 lang: ko
 ---
 
-학회 발표, 초청 강연, 공개 강의. 최신순으로 정리합니다.
+## 학회발표
 
-## 학회 발표
+- “On Egyptian Circumcision by Christians, Jews and Pagans.” _2026년 SBL 연례모임_: 콜로라도 덴버, 2026년 11월.  
+- “Calling on the Name of the Lord in Romans and Acts.” _2026년 로마서와 신학 컨퍼런스_: 뉴저지 프린스턴, 2026년 10월
+- “Can the Subaltern Speak of Within Judaism?: Assessing the Place of Korean Biblical Scholars in Jewish-Christian Relations of Biblical Studies.” 2026년 AAR 동북부 지역학회모임: 뉴저지 프린스턴, 2026년 5월
+- “AI Agents as RA and TA: Use of AI Agent IDE for Humanities Research and Teaching.” 2026년 코이노니아 포럼, Tech Faithfully: 뉴저지 프린스턴, 2026년 3월
+- “Origins of (Korean Christianity) in its Imperial Context.” 2025년 SBL 연례모임: 메사추세츠 보스턴, 2025년 11월
+- “Universality or Fluidity? Ethnic Reasoning within Colossians 1-2.” 2024년 SBL 글로벌 비대면 모임, 2024년 4월 
 
-- **"발표 제목."** 학회 / 학술단체, 장소, 연월.
-
-## 초청 강연 및 강의
-
-- **"강연 제목."** 초청 기관, 장소, 연월.
-
-## 워크숍 및 대중 활동
-
-- 활동에 대한 짧은 설명, 장소, 연도.
