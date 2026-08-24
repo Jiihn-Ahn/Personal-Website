@@ -18,35 +18,7 @@
     "href": "ko/publications.html",
     "title": "논문 및 저작",
     "section": "",
-    "text": "기록이 쌓이면 항목을 분명한 제목 아래 정리하세요. 초기에 이 페이지가 짧은 것은 지극히 자연스러운 일이니, 필요 없는 섹션은 지워도 됩니다."
-  },
-  {
-    "objectID": "ko/publications.html#학술-논문",
-    "href": "ko/publications.html#학술-논문",
-    "title": "논문 및 저작",
-    "section": "학술 논문",
-    "text": "학술 논문\n\n저자, 논문 제목. 학술지명, 권(호), 연도."
-  },
-  {
-    "objectID": "ko/publications.html#단행본-챕터",
-    "href": "ko/publications.html#단행본-챕터",
-    "title": "논문 및 저작",
-    "section": "단행본 챕터",
-    "text": "단행본 챕터\n\n저자, “챕터 제목,” 『책 제목』, 편저자 (출판사, 연도)."
-  },
-  {
-    "objectID": "ko/publications.html#서평",
-    "href": "ko/publications.html#서평",
-    "title": "논문 및 저작",
-    "section": "서평",
-    "text": "서평\n\n『책 제목』(저자) 서평. 학술지명, 연도."
-  },
-  {
-    "objectID": "ko/publications.html#게재-예정-진행-중",
-    "href": "ko/publications.html#게재-예정-진행-중",
-    "title": "논문 및 저작",
-    "section": "게재 예정 / 진행 중",
-    "text": "게재 예정 / 진행 중\n\n가제 — 진행 상태에 대한 짧은 메모."
+    "text": "아직 논문 투고 중에 있습니다. 감사합니다."
   },
   {
     "objectID": "ko/index.html",
@@ -60,7 +32,7 @@
     "href": "ko/contact.html",
     "title": "연락처",
     "section": "",
-    "text": "학생, 동료, 편집자 누구든 연락을 환영합니다.\n\n이메일: you@example.com\n소속: 학과, 대학명\nGoogle Scholar: 프로필\nGitHub: yourusername"
+    "text": "연락하실 곳\n\n이메일: jiihn.ahn@ptsem.edu\n소속: 프린스턴 신학교 성서학과\nGoogle Scholar: 준비중\nGitHub: Jiihn-Ahn\n스레드 jiihn.bible"
   },
   {
     "objectID": "ko/blog/index.html",
@@ -81,7 +53,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Email: jiihn.ahn@ptsem.edu\nAffiliation: Biblical Studies Department, Princeton Theological Seminary\nGoogle Scholar: Coming Soon\nKorean Blog: Link\nGitHub: Jiihn-Ahn"
+    "text": "Email: jiihn.ahn@ptsem.edu\nAffiliation: Biblical Studies Department, Princeton Theological Seminary\nGoogle Scholar: Coming Soon\nKorean Blog: Link\nGitHub: Jiihn-Ahn\nThreads jiihn.bible"
   },
   {
     "objectID": "blog/index.html",
@@ -158,35 +130,35 @@
     "href": "ko/about.html",
     "title": "소개",
     "section": "",
-    "text": "전체 약력을 여기에 적으세요. 학문적 여정, 소속, 연구의 동기를 몇 문단으로 소개합니다."
+    "text": "안녕하세요, 웹사이트를 방문 해주신 모든 분들을 환영합니다. 제 이름은 안지인이고, 현재 프린스턴 신학교에서 성서학 박사과정 2년차에 있는 침례교 목사입니다. 신약성경 중에서도 바울서신과 사도행전에 특히 관심이 많습니다. 감사합니다."
   },
   {
     "objectID": "ko/about.html#약력",
     "href": "ko/about.html#약력",
     "title": "소개",
     "section": "",
-    "text": "전체 약력을 여기에 적으세요. 학문적 여정, 소속, 연구의 동기를 몇 문단으로 소개합니다."
+    "text": "안녕하세요, 웹사이트를 방문 해주신 모든 분들을 환영합니다. 제 이름은 안지인이고, 현재 프린스턴 신학교에서 성서학 박사과정 2년차에 있는 침례교 목사입니다. 신약성경 중에서도 바울서신과 사도행전에 특히 관심이 많습니다. 감사합니다."
   },
   {
     "objectID": "ko/about.html#연구-관심사",
     "href": "ko/about.html#연구-관심사",
     "title": "소개",
     "section": "연구 관심사",
-    "text": "연구 관심사\n\n첫 번째 관심 분야\n두 번째 관심 분야\n세 번째 관심 분야"
+    "text": "연구 관심사\n\n탈식민주의 및 인종연구이론과 신약성경 사이의 학제간 연구\n유대교-기독교 성서 수용사\n바울서신과 사도행전"
   },
   {
     "objectID": "ko/about.html#학력",
     "href": "ko/about.html#학력",
     "title": "소개",
     "section": "학력",
-    "text": "학력\n\n성서학 박사과정 (재학 중) — 대학명, 연도–현재\n석사 / 신학석사 — 대학명, 연도\n학사 — 대학명, 연도"
+    "text": "학력\n\nPhD 성서학 박사과정 (재학 중) — 프린스턴 신학교, 2025–현재\nMTS — 밴더빌트 대학교, 2023-2025\nMDiv - 한국침례신학대학교, 2016-2021\nBA — 뉴올리언스침례신학교, 2012-2015"
   },
   {
     "objectID": "ko/blog/posts/2026-05-22-welcome/index.html",
     "href": "ko/blog/posts/2026-05-22-welcome/index.html",
     "title": "사이트를 시작하며",
     "section": "",
-    "text": "자리표시용 글입니다. 첫 번째 실제 글로 교체하세요. 나중에 새 글을 추가하려면 이 폴더를 복사해 이름을 바꾸고(예: 2026-06-01-my-topic) 내용을 고치면 됩니다 — 또는 클로드 코드에게 대신 만들어 달라고 요청해도 됩니다."
+    "text": "자리표시용 글입니다. 첫 번째 실제 글로 교체하세요. 나중에 새 글을 추가하려면 이 폴더를 복사해 이름을 바꾸고(예: 2026-06-01-my-topic) 내용을 고치면 됩니다 —"
   },
   {
     "objectID": "ko/cv.html",
@@ -200,49 +172,35 @@
     "href": "ko/cv.html#학력",
     "title": "이력서 (CV)",
     "section": "학력",
-    "text": "학력\n\n성서학 박사과정 (재학 중), 대학명, 연도–현재"
+    "text": "학력\n\nPhD 성서학 박사과정 (재학 중) — 프린스턴 신학교, 2025–현재\nMTS — 밴더빌트 대학교, 2023-2025\nMDiv - 한국침례신학대학교, 2016-2021\nBA — 뉴올리언스침례신학교, 2012-2015"
   },
   {
-    "objectID": "ko/cv.html#주요-논문",
-    "href": "ko/cv.html#주요-논문",
+    "objectID": "ko/cv.html#강의-경력",
+    "href": "ko/cv.html#강의-경력",
     "title": "이력서 (CV)",
-    "section": "주요 논문",
-    "text": "주요 논문\n\n논문 및 저작 페이지를 참고하세요."
+    "section": "강의 경력",
+    "text": "강의 경력\n\n프린스턴 신학교\n\n2026년 가을 수업조교 NT5051 중급헬라어\n2026년 여름 수업조교 NT1152 초급헬라어 1,2\n2026년 봄 수업조교 NT2012 신약개론\n2025년 가을 수업조교 TI2014 신약속의 유대교와 유대인 탐구\n\n\n\n한국침례신학대학교\n\n연구조교"
   },
   {
-    "objectID": "ko/cv.html#주요-발표",
-    "href": "ko/cv.html#주요-발표",
+    "objectID": "ko/cv.html#이력",
+    "href": "ko/cv.html#이력",
     "title": "이력서 (CV)",
-    "section": "주요 발표",
-    "text": "주요 발표\n\n발표 페이지를 참고하세요."
+    "section": "이력",
+    "text": "이력\n\n프린스턴 신학교\n\n2026년 여름 연구조교\n\nDr. Mary Farag를 보조하여 세계콥틱기독교학회에서 발표할 최근 10년간의 모든 콥틱학 관련 자료정리\n\n\n\n\n밴더빌트 대학교\n\n2023년 가을부터 2025년 봄까지\n\n밴더빌트 대학교 신학대학원 입학처 외국인 입학생 담당직원\n\n2024년 여름\n\nDr. David Michelson을 보조하여 대영도서관 시리아어 자료 디지털화 보조"
   },
   {
     "objectID": "ko/presentations.html",
     "href": "ko/presentations.html",
     "title": "발표",
     "section": "",
-    "text": "학회 발표, 초청 강연, 공개 강의. 최신순으로 정리합니다."
+    "text": "“On Egyptian Circumcision by Christians, Jews and Pagans.” 2026년 SBL 연례모임: 콜로라도 덴버, 2026년 11월.\n\n“Calling on the Name of the Lord in Romans and Acts.” 2026년 로마서와 신학 컨퍼런스: 뉴저지 프린스턴, 2026년 10월\n“Can the Subaltern Speak of Within Judaism?: Assessing the Place of Korean Biblical Scholars in Jewish-Christian Relations of Biblical Studies.” 2026년 AAR 동북부 지역학회모임: 뉴저지 프린스턴, 2026년 5월\n“AI Agents as RA and TA: Use of AI Agent IDE for Humanities Research and Teaching.” 2026년 코이노니아 포럼, Tech Faithfully: 뉴저지 프린스턴, 2026년 3월\n“Origins of (Korean Christianity) in its Imperial Context.” 2025년 SBL 연례모임: 메사추세츠 보스턴, 2025년 11월\n“Universality or Fluidity? Ethnic Reasoning within Colossians 1-2.” 2024년 SBL 글로벌 비대면 모임, 2024년 4월"
   },
   {
-    "objectID": "ko/presentations.html#학회-발표",
-    "href": "ko/presentations.html#학회-발표",
+    "objectID": "ko/presentations.html#학회발표",
+    "href": "ko/presentations.html#학회발표",
     "title": "발표",
-    "section": "학회 발표",
-    "text": "학회 발표\n\n“발표 제목.” 학회 / 학술단체, 장소, 연월."
-  },
-  {
-    "objectID": "ko/presentations.html#초청-강연-및-강의",
-    "href": "ko/presentations.html#초청-강연-및-강의",
-    "title": "발표",
-    "section": "초청 강연 및 강의",
-    "text": "초청 강연 및 강의\n\n“강연 제목.” 초청 기관, 장소, 연월."
-  },
-  {
-    "objectID": "ko/presentations.html#워크숍-및-대중-활동",
-    "href": "ko/presentations.html#워크숍-및-대중-활동",
-    "title": "발표",
-    "section": "워크숍 및 대중 활동",
-    "text": "워크숍 및 대중 활동\n\n활동에 대한 짧은 설명, 장소, 연도."
+    "section": "",
+    "text": "“On Egyptian Circumcision by Christians, Jews and Pagans.” 2026년 SBL 연례모임: 콜로라도 덴버, 2026년 11월.\n\n“Calling on the Name of the Lord in Romans and Acts.” 2026년 로마서와 신학 컨퍼런스: 뉴저지 프린스턴, 2026년 10월\n“Can the Subaltern Speak of Within Judaism?: Assessing the Place of Korean Biblical Scholars in Jewish-Christian Relations of Biblical Studies.” 2026년 AAR 동북부 지역학회모임: 뉴저지 프린스턴, 2026년 5월\n“AI Agents as RA and TA: Use of AI Agent IDE for Humanities Research and Teaching.” 2026년 코이노니아 포럼, Tech Faithfully: 뉴저지 프린스턴, 2026년 3월\n“Origins of (Korean Christianity) in its Imperial Context.” 2025년 SBL 연례모임: 메사추세츠 보스턴, 2025년 11월\n“Universality or Fluidity? Ethnic Reasoning within Colossians 1-2.” 2024년 SBL 글로벌 비대면 모임, 2024년 4월"
   },
   {
     "objectID": "presentations.html",
