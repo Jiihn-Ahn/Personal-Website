@@ -1,6 +1,6 @@
 ---
-title: "이름"
-subtitle: "성서학 박사과정"
+title: "안지인
+subtitle: "미국 프린스턴 신학교 성서학 박사과정생이자 목사"
 lang: ko
 about:
   template: trestles
@@ -12,16 +12,16 @@ about:
       href: "https://scholar.google.com/"
     - icon: github
       text: GitHub
-      href: "https://github.com/yourusername"
+      href: "https://github.com/Jiihn-Ahn"
     - icon: linkedin
       text: LinkedIn
-      href: "https://www.linkedin.com/in/yourusername"
+      href: "https://www.linkedin.com/in/jiihn-ahn-a21371272/"
     - icon: envelope
       text: 이메일
-      href: "mailto:you@example.com"
+      href: "mailto:jiihn.ahn@ptsem.edu"
 ---
 
-여기에 두세 문장으로 짧은 소개를 적으세요 — 어떤 사람이고, 무엇을 연구하며,
-이 사이트에서 무엇을 볼 수 있는지. 자세한 이야기는 [소개](about.qmd) 페이지에 담습니다.
+안녕하세요, 제 이름은 안지인이고, 미국 프린스턴 신학교에서 성서학 박사과정생을 거치고 있는 침례교 목사입니다.
+자세한 이야기는 [소개](about.qmd) 페이지에 있습니다.
 
 [English](../index.html)
