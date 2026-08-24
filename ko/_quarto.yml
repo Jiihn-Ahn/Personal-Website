@@ -1,0 +1,60 @@
+# Korean site. This is a SEPARATE Quarto project from the root one, which is
+# what lets it have its own Korean navbar. It renders into ../_site/ko so both
+# languages end up in a single published site.
+#
+# Build both halves with:  quarto render  &&  quarto render ko
+
+project:
+  type: website
+  output-dir: ../_site/ko
+
+lang: ko
+
+website:
+  title: "안지인"
+  site-url: "https://jiihn.org/ko/"
+  description: "프린스턴 신학교 성서학 박사과정생 안지인의 개인 웹사이트."
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: 홈
+      - href: about.qmd
+        text: 소개
+      - href: publications.qmd
+        text: 논문 및 저작
+      - href: presentations.qmd
+        text: 발표
+      - href: blog/index.qmd
+        text: 블로그
+      - href: cv.qmd
+        text: 이력서
+      - href: contact.qmd
+        text: 연락처
+    right:
+      # Language toggle (KO -> EN). Points up out of /ko/ to the English site.
+      - text: "English"
+        href: ../index.html
+      - icon: github
+        href: "https://github.com/Jiihn-Ahn"
+        aria-label: GitHub
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/jiihn-ahn-a21371272/"
+        aria-label: LinkedIn
+      - icon: envelope
+        href: "mailto:jiihn.ahn@ptsem.edu"
+        aria-label: 이메일
+  page-footer:
+    border: true
+    center: "© 2026 안지인 · [Quarto](https://quarto.org)로 제작"
+
+format:
+  html:
+    theme: ../theme.scss
+    toc: false
+    grid:
+      body-width: 880px
+    link-external-newwindow: true

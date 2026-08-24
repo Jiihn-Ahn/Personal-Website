@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 lang: en
 ---
 
-[Download CV (PDF)](https://github.com/Jiihn-Ahn/Personal-Website/blob/main/files/CV%2C%20Jiihn%20Ahn.pdf){.btn .btn-outline-dark}
+[Download CV (PDF)](files/cv-jiihn-ahn.pdf){.btn .btn-outline-dark}
 
 
 ## Education

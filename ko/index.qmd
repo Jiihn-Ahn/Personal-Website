@@ -1,6 +1,6 @@
 ---
 title: "안지인"
-subtitle: "미국 프린스턴 신학교 성서학 박사과정생이자 목사"
+subtitle: "프린스턴 신학교 성서학 박사과정생이자 목사"
 lang: ko
 about:
   template: trestles
@@ -23,5 +23,3 @@ about:
 
 안녕하세요, 제 이름은 안지인이고, 미국 프린스턴 신학교에서 성서학 박사과정생을 거치고 있는 침례교 목사입니다.
 자세한 이야기는 [소개](about.qmd) 페이지에 있습니다.
-
-[English](../index.html)

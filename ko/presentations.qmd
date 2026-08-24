@@ -3,8 +3,6 @@ title: "발표"
 lang: ko
 ---
 
-[English](../presentations.html)
-
 학회 발표, 초청 강연, 공개 강의. 최신순으로 정리합니다.
 
 ## 학회 발표

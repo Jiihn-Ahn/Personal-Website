@@ -3,8 +3,6 @@ title: "연락처"
 lang: ko
 ---
 
-[English](../contact.html)
-
 학생, 동료, 편집자 누구든 연락을 환영합니다.
 
 - **이메일:** [you@example.com](mailto:you@example.com)

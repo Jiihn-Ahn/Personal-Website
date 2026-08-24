@@ -1,8 +1,12 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - "*.qmd"
+    - "blog/**/*.qmd"
   resources:
     - CNAME
+    - files/
 
 website:
   title: "Jiihn Ahn"
@@ -29,9 +33,10 @@ website:
       - href: contact.qmd
         text: Contact
     right:
-      # Language toggle (EN -> KO). See README for the full per-language navbar upgrade.
+      # Language toggle (EN -> KO). The Korean site is a separate Quarto
+      # project in ko/ with its own navbar; see ko/_quarto.yml.
       - text: "한국어"
-        href: ko/index.qmd
+        href: ko/index.html
       - icon: github
         href: "https://github.com/Jiihn-Ahn"
         aria-label: GitHub

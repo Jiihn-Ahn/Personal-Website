@@ -19,9 +19,19 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render and Publish to GitHub Pages
+      # The site is two Quarto projects: English at the root and Korean in ko/
+      # (which renders into _site/ko). Both must be rendered before publishing,
+      # or one language will go stale.
+      - name: Render English site
+        run: quarto render
+
+      - name: Render Korean site
+        run: quarto render ko
+
+      - name: Publish to GitHub Pages
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
+          render: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
